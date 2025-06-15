@@ -1,0 +1,237 @@
+[22:44:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:44:30] [ServerMain/INFO]: Loaded 1174 recipes
+[22:44:30] [ServerMain/INFO]: Loaded 1271 advancements
+[22:44:31] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[22:44:31] [Server thread/INFO]: Loading properties
+[22:44:31] [Server thread/INFO]: This server is running Paper version git-Paper-499 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 9de3f75 on ver/1.20.4)
+[22:44:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:44:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:44:34] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[22:44:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[22:44:35] [Server thread/INFO]: Default game type: SURVIVAL
+[22:44:35] [Server thread/INFO]: Generating keypair
+[22:44:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:44:36] [Server thread/INFO]: Using default channel type
+[22:44:36] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[22:44:36] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[22:44:37] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:44:42] [Server thread/WARN]: Legacy plugin OnePlayerSleep v1.3 does not specify an api-version.
+[22:44:42] [Server thread/WARN]: Legacy plugin MagmanodeCore v1.0-SNAPSHOT does not specify an api-version.
+[22:44:42] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[22:44:42] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[22:44:43] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:44:43] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[22:44:44] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:44:44] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[22:44:44] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.16
+[22:44:44] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[22:44:44] [Server thread/INFO]: [DeluxeHub] Loading server plugin DeluxeHub v3.5.5
+[22:44:44] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[22:44:45] [Server thread/INFO]: [floodgate] Took 1,402ms to boot Floodgate
+[22:44:45] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1-dev+15-fe43017
+[22:44:45] [Server thread/INFO]: [ServersNPC] Loading server plugin ServersNPC v4.8
+[22:44:45] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.0
+[22:44:45] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.5
+[22:44:45] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.6
+[22:44:45] [Server thread/INFO]: [PlayerStats] Loading server plugin PlayerStats v1.0-SNAPSHOT
+[22:44:45] [Server thread/INFO]: [PlayerEvent] Loading server plugin PlayerEvent v1.0
+[22:44:45] [Server thread/INFO]: [OnePlayerSleep] Loading server plugin OnePlayerSleep v1.3
+[22:44:45] [Server thread/INFO]: [Multiverse-NetherPortals] Loading server plugin Multiverse-NetherPortals v4.2.3
+[22:44:45] [Server thread/INFO]: [MagmanodeCore] Loading server plugin MagmanodeCore v1.0-SNAPSHOT
+[22:44:45] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[22:44:45] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.1-SNAPSHOT
+[22:44:46] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[22:44:46] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[22:44:47] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.1-dev+15-fe43017
+[22:44:47] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.17
+[22:44:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:44:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[22:44:48] [Server thread/INFO]:         __    
+[22:44:48] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[22:44:48] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:44:48] [Server thread/INFO]: 
+[22:44:48] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:44:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:44:49] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:44:49] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:44:50] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3026ms)
+[22:44:50] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[22:44:50] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:44:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:44:50] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[22:44:50] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[22:44:50] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.5
+[22:44:51] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.4.
+[22:44:51] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[22:44:52] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:44:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.6.5]
+[22:44:52] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[22:44:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:44:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:44:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:44:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:44:52] [Server thread/INFO]: Preparing level "world"
+[22:44:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:44:53] [Server thread/INFO]: Time elapsed: 270 ms
+[22:44:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:44:53] [Server thread/INFO]: Time elapsed: 48 ms
+[22:44:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:44:53] [Server thread/INFO]: Time elapsed: 35 ms
+[22:44:53] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[22:44:53] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3-1.20.4 (765)
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:44:53] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.16
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:44:53] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.16" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[22:44:53] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.5
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: f8c262a
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:44:53] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:44:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:44:54] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:44:54] [Server thread/INFO]: Preparing start region for dimension minecraft:earth
+[22:44:54] [Server thread/INFO]: Time elapsed: 105 ms
+[22:44:54] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: EARTHSMP
+[22:44:54] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[22:44:54] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[22:44:54] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[22:44:54] [Server thread/INFO]: [Multiverse-Core] Version 4.3.16 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[22:44:54] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[22:44:55] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:44:55] [Server thread/INFO]: [DeluxeHub] Enabling DeluxeHub v3.5.5
+[22:44:55] [Server thread/INFO]: [DeluxeHub]  _   _            _          _    _ 
+[22:44:55] [Server thread/INFO]: [DeluxeHub] | \ |_ |  | | \/ |_ |_| | | |_)   _)
+[22:44:55] [Server thread/INFO]: [DeluxeHub] |_/ |_ |_ |_| /\ |_ | | |_| |_)   _)
+[22:44:55] [Server thread/INFO]: [DeluxeHub] 
+[22:44:55] [Server thread/INFO]: [DeluxeHub] Version: 3.5.5
+[22:44:55] [Server thread/INFO]: [DeluxeHub] Author: ItsLewizzz
+[22:44:55] [Server thread/INFO]: [DeluxeHub] 
+[22:44:55] [Server thread/INFO]: [DeluxeHub]  Hooked into PlaceholderAPI
+[22:44:55] [Server thread/INFO]: [DeluxeHub] Loaded custom menu 'serverselector'.
+[22:44:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Spigot: v1_20_R3! Trying to find NMS support
+[22:44:55] [Server thread/WARN]: [NBTAPI] [NBTAPI] This Server-Version(v1_20_R3) is not supported by this NBT-API Version(2.12.0) located in DeluxeHub. The NBT-API will try to work as good as it can! Some functions may not work!
+[22:44:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DeluxeHub' to create a bStats instance!
+[22:44:55] [Server thread/INFO]: [DeluxeHub] Loaded 15 plugin modules.
+[22:44:56] [Server thread/INFO]: [DeluxeHub] 
+[22:44:56] [Server thread/INFO]: [DeluxeHub] Successfully loaded in 754ms
+[22:44:56] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[22:44:56] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1-dev+15-fe43017
+[22:44:57] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[22:44:57] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:44:57] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[22:44:57] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
+[22:44:57] [Server thread/INFO]: [Essentials] Using locale en_US
+[22:44:58] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:44:58] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:44:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[22:44:58] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[22:44:58] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v4.8
+[22:44:58] [Server thread/INFO]: [TAB] Enabling TAB v5.2.0
+[22:44:58] [Server thread/INFO]: [TAB] Loaded NMS hook in 154ms
+[22:44:59] [Server thread/INFO]: [TAB] Enabled in 366ms
+[22:44:59] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.6
+[22:44:59] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[22:44:59] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.6
+[22:44:59] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[22:44:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleTpa [7.6]
+[22:44:59] [Server thread/INFO]: [PlayerStats] Enabling PlayerStats v1.0-SNAPSHOT
+[22:45:00] [Server thread/INFO]: [PlayerStats] Firebase initialized successfully.
+[22:45:00] [Server thread/INFO]: [PlayerEvent] Enabling PlayerEvent v1.0
+[22:45:01] [Server thread/INFO]: Firebase initialized.
+[22:45:01] [Server thread/INFO]: [PlayerEvent] EarthSMPStatsPlugin enabled.
+[22:45:01] [Server thread/INFO]: [OnePlayerSleep] Enabling OnePlayerSleep v1.3*
+[22:45:01] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v4.2.3
+[22:45:01] [Server thread/INFO]: [Multiverse-NetherPortals 4.2.3]  Enabled - By Rigby and fernferret
+[22:45:01] [Server thread/INFO]: [MagmanodeCore] Enabling MagmanodeCore v1.0-SNAPSHOT*
+[22:45:01] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[22:45:01] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[22:45:01] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[22:45:01] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[22:45:01] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[22:45:01] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[22:45:01] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.1-SNAPSHOT
+[22:45:02] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.1-dev+15-fe43017
+[22:45:02] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[22:45:02] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.17
+[22:45:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R3! Trying to find NMS support
+[22:45:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R3' loaded!
+[22:45:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[22:45:02] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:45:02] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:45:02] [Server thread/INFO]: [Geyser-Spigot] 
+[22:45:02] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.1-b833 (git-master-d0be6d9)
+[22:45:02] [Server thread/INFO]: [Geyser-Spigot] 
+[22:45:02] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:45:11] [nioEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[22:45:11] [Server thread/INFO]: [Geyser-Spigot] Done (8.154s)! Run /geyser help for help!
+[22:45:11] [Server thread/INFO]: Running delayed init tasks
+[22:45:11] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[22:45:11] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[22:45:11] [Craft Scheduler Thread - 7 - Essentials/INFO]: [Essentials] Fetching version information...
+[22:45:11] [Craft Scheduler Thread - 18 - Vault/INFO]: [Vault] Checking for Updates ... 
+[22:45:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[22:45:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[22:45:11] [Server thread/INFO]: 2 placeholder hook(s) registered!
+[22:45:11] [Server thread/INFO]: Done (40.441s)! For help, type "help"
+[22:45:11] [Server thread/INFO]: Timings Reset
+[22:45:11] [Craft Scheduler Thread - 18 - Vault/INFO]: [Vault] No new version available
+[22:45:11] [Craft Scheduler Thread - 13 - DecentHolograms/INFO]: 
+A newer version of DecentHolograms is available. Download it from: 
+- https://www.spigotmc.org/resources/96927/
+- https://modrinth.com/plugin/decentholograms
+[22:45:12] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] You're 12 EssentialsX dev build(s) out of date!
+[22:45:12] [Craft Scheduler Thread - 7 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[22:45:13] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 3d327aba-e93b-40f4-9a15-bc0547219382, mapped to EntityBat['Bat'/102, uuid='3d327aba-e93b-40f4-9a15-bc0547219382', l='ServerLevel[EARTH]', x=30.26, y=29.06, z=-56.11, cpos=[1, -4], tl=263, v=true], can't add EntityBat['Bat'/154, uuid='3d327aba-e93b-40f4-9a15-bc0547219382', l='ServerLevel[EARTH]', x=34.33, y=26.65, z=-51.38, cpos=[2, -4], tl=428, v=false]
+[22:46:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2740ms or 54 ticks behind
+[22:46:35] [User Authenticator #0/INFO]: UUID of player ABGAMERZOP69 is e2558815-6115-36b9-b801-33de332aab45
+[22:46:36] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 27.255500ms. Summary: Getting prefix for ABGAMERZOP69
+[22:46:36] [Server thread/INFO]: ABGAMERZOP69 joined the game
+[22:46:38] [Server thread/INFO]: ABGAMERZOP69[/127.0.0.1:50769] logged in with entity id 281 at ([world]0.5697021185093342, 70.0, -0.03926733821504104)
+[22:46:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[22:47:04] [Server thread/INFO]: ABGAMERZOP69 lost connection: Disconnected
+[22:47:04] [Server thread/INFO]: - ABGAMERZOP69 Left The Party.
+[22:47:08] [User Authenticator #0/INFO]: UUID of player ABGAMERZOP69 is e2558815-6115-36b9-b801-33de332aab45
+[22:47:09] [Server thread/INFO]: + ABGAMERZOP69 Showed Up.
+[22:47:09] [Server thread/INFO]: ABGAMERZOP69[/127.0.0.1:50785] logged in with entity id 282 at ([world]0.5697021185093342, 70.0, -0.03926733821504104)
+[22:47:38] [Server thread/INFO]: From the console, you must specify a player to teleport
+[22:47:48] [Server thread/INFO]: ABGAMERZOP69 issued server command: /time set day
+[22:47:54] [Server thread/INFO]: ABGAMERZOP69 issued server command: /time set day
+[22:47:56] [Server thread/INFO]: ABGAMERZOP69 lost connection: Disconnected
+[22:47:56] [Server thread/INFO]: ABGAMERZOP69 left the game
+[22:48:00] [User Authenticator #0/INFO]: UUID of player ABGAMERZOP69 is e2558815-6115-36b9-b801-33de332aab45
+[22:48:00] [Server thread/INFO]: ABGAMERZOP69 joined the game
+[22:48:00] [Server thread/INFO]: ABGAMERZOP69[/127.0.0.1:50798] logged in with entity id 341 at ([world]0.5697021185093342, 70.0, -0.03926733821504104)
+[22:48:09] [Server thread/INFO]: From the console, you must specify a player to teleport
+[22:48:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2792ms or 55 ticks behind
+[22:48:37] [Server thread/INFO]: ABGAMERZOP69 lost connection: Disconnected
+[22:48:37] [Server thread/INFO]: ABGAMERZOP69 left the game
